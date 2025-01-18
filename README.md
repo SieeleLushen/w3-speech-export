@@ -5,14 +5,14 @@ All you need to export W3 speech
 
 Download all files from this repository and make sure you have Python installed (tested on 3.13) and then:
 
-###To export speech files from the game
+### To export speech files from the game
 1. Set 'game dir' and 'lang' variables in 'export_w3speech.py'
 2. Run 'export_w3speech.py'
 
-###To add actors to filenames
+### To add actors to filenames
 - Run 'add_actors.py'
 
-###To copy all actor files to another folder
+### To copy all actor files to another folder
 1. Set 'actor_name' and 'new_folder' variables in 'copy_by_actor.py'
 2. Run 'copy_by_actor.py'
 
